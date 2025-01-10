@@ -20,4 +20,4 @@ Le projet vise à créer un Smart Contract pour la vente de NFT représentant de
 
 ## Restitution
 
-Le rendu du projet est prévu avant le début du second TP. Il est nécessaire de tester le Smart Contract, il est donc demandé de rédiger des tests unitaires ainsi que de la documentation à propos du Smart Contract.
+Il est nécessaire de tester le Smart Contract, il est donc demandé de rédiger des tests unitaires ainsi que de la documentation à propos du Smart Contract mais aussi de l'application décentralisée.
