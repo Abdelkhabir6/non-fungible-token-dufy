@@ -1,0 +1,23 @@
+{
+  "name": "non-fungible-token-dufy",
+  "version": "1.0.0",
+  "description": "|   Nom   | Prénom |\r |---------|--------|\r |   Doe   |  Jane  |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www-apps.univ-lehavre.fr/forge/sa233338/non-fungible-token-dufy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
